@@ -1,3 +1,4 @@
 this is the home page !
 Welcome to Devops Team
 Enjoy the journey
+And  have nice day
